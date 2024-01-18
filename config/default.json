@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://user:pass@db1.r3rzulj.mongodb.net/?retryWrites=true&w=majority",
-  "jwtSecret": "abc"
+  "jwtSecret": "abc",
+  "githubClientId": "394e92aa6dd6c590a515",
+  "githubCleintSecret": "1691f8a08fa0dce40271554e2ca5fdcfab4b097b"
 }
