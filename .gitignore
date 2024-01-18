@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
 node_modules/
 config/default.json/
-=======
-node_modules/
-config/default.json
->>>>>>> fa94fe411f394f460ef63823f70dfd207009a868
+
